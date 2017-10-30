@@ -1,4 +1,5 @@
-# Registration and Login Example with Spring MVC 4, Spring Security, Spring Data JPA, XML Configuration, Maven, JSP, and MySQL.
+# Linked Language
+Linked Lanuage is a web site for learning languages using semantic relations of words. Two types of users exists namely feeders and learners. 
 
 ## Guide
 https://hellokoding.com/registration-and-login-example-with-spring-xml-configuration-maven-jsp-and-mysql/
